@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ia2V5aWl0ZWp0Zmx1czd3N3hkbXF3aXl5c3ZuMHR2aDJrMGUxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7HdhQA4ffttvrO/giphy.gif" width="200"/>
 </div>
 
-<b>CryptoHub</b> is a community that provides users with a tool to help them effectively track their cryptocurrency asset balances.
+<b>wallet_watch</b> is a community that provides users with a tool to help them effectively track their cryptocurrency asset balances.
 
 <b>Goals:</b>
 
